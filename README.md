@@ -41,4 +41,4 @@ allSelectP.style.backgroundColor = 'black';
 const btn = document.getElementsByName('btn');
 ````
 ### Console Selecting Elements
-![selecting-elements](selecting-elements.png)
+![selecting-elements](selecting-elements.png);
