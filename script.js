@@ -18,3 +18,8 @@ h1.style.fontSize = '50px';
 // document.getElementsByClassName()
 const p1 = document.getElementsByClassName('p1')[0];
 p1.innerHTML = 'Join us Instagram';
+
+// document.querySelector()
+const p4 = document.querySelector('#b p');
+p4.style.color = 'white';
+p4.style.fontSize = '20px';
