@@ -28,3 +28,5 @@ p4.style.fontSize = '20px';
 const allSelectP = document.querySelectorAll('p')[2];
 allSelectP.style.backgroundColor = 'black';
 
+// document.getElementsByName()
+const btn = document.getElementsByName('btn');
